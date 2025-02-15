@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-Welcome to my **personal portfolio website**! This is where I showcase my **skills, projects, and experience** in **Frontend Development, Full-Stack Development, and Cybersecurity**.  
-Take a look at my projects and feel free to connect with me! 😃
+Welcome to my 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐰𝐞𝐛𝐬𝐢𝐭𝐞! This is where I showcase my 𝐬𝐤𝐢𝐥𝐥𝐬, 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐚𝐧𝐝 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐚𝐧𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲. Take a look at my projects and feel free to connect with me! 😃
 </p>
 
 ---
