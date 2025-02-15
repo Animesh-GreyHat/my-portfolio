@@ -7,26 +7,26 @@
 </p>
 
 <p align="center">
-Welcome to my **personal portfolio website**! This is where I showcase my **skills, projects, and experience** in **Frontend Development, Full-Stack Development, and Cybersecurity**.  
+Welcome to my 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐰𝐞𝐛𝐬𝐢𝐭𝐞! This is where I showcase my 𝐬𝐤𝐢𝐥𝐥𝐬, 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐚𝐧𝐝 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐚𝐧𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲.  
 Take a look at my projects and feel free to connect with me! 😃
 </p>
 
 ---
 
-## 📌 **Live Portfolio**
-🔗 **[Visit My Portfolio](https://animesh-kr-portfolio.netlify.app/)** 🌍  
+## 📌 𝐋𝐢𝐯𝐞 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
+🔗 [𝐕𝐢𝐬𝐢𝐭 𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](𝐡𝐭𝐭𝐩𝐬://𝐚𝐧𝐢𝐦𝐞𝐬𝐡-𝐤𝐫-𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨.𝐧𝐞𝐭𝐥𝐢𝐟𝐲.𝐚𝐩𝐩/) 🌍  
 
 ---
 
-## 🧑‍💻 **About Me**
-👋 Hi, I am **Animesh Kumar**, a passionate **Frontend Developer & Cyber Forensics Expert**.  
-🔹 I love **building creative, scalable, and secure web applications**.  
-🔹 I have expertise in **Frontend Development, Full-Stack Web Development, and Cybersecurity**.  
-🔹 My goal is to **bridge the gap between development & security** by building secure web solutions.  
+## 🧑‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+👋 Hi, I am 𝐀𝐧𝐢𝐦𝐞𝐬𝐡 𝐊𝐮𝐦𝐚𝐫, a passionate 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐂𝐲𝐛𝐞𝐫 𝐅𝐨𝐫𝐞𝐧𝐬𝐢𝐜𝐬 𝐄𝐱𝐩𝐞𝐫𝐭.  
+🔹 I love 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞, 𝐬𝐜𝐚𝐥𝐚𝐛𝐥𝐞, 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐞 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.  
+🔹 I have expertise in 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐚𝐧𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲.  
+🔹 My goal is to 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 by building secure web solutions.  
 
 ---
 
-## 🚀 **Tech Stack & Skills**
+## 🚀 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 & 𝐒𝐤𝐢𝐥𝐥𝐬
 | 💻 Frontend | 🌐 Backend | 🔐 Cybersecurity | 🛠 Tools & Others |
 |------------|-----------|-----------------|------------------|
 | HTML, CSS, JavaScript, Tailwind CSS, React.js | Node.js, Express.js, MongoDB (MERN Stack) | Ethical Hacking, Network Security, Digital Forensics | Git, GitHub, Linux, Kali Linux, VS Code |
