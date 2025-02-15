@@ -14,7 +14,7 @@ Take a look at my projects and feel free to connect with me! 😃
 ---
 
 ## 📌 **Live Portfolio**
-🔗 **[Visit My Portfolio]([https://your-username.github.io/my-portfolio/](https://animesh-kr-portfolio.netlify.app/))** 🌍  
+🔗 **[Visit My Portfolio]((https://animesh-kr-portfolio.netlify.app/))** 🌍  
 
 ---
 
