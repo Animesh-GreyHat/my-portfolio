@@ -14,7 +14,7 @@ Take a look at my projects and feel free to connect with me! 😃
 ---
 
 ## 📌 **Live Portfolio**
-🔗 **[Visit My Portfolio](https://your-username.github.io/my-portfolio/)** 🌍  
+🔗 **[Visit My Portfolio]([https://your-username.github.io/my-portfolio/](https://animesh-kr-portfolio.netlify.app/))** 🌍  
 
 ---
 
@@ -37,7 +37,7 @@ Take a look at my projects and feel free to connect with me! 😃
 ### 🔥 **1. Personal Portfolio Website**
 📌 **Description:** My personal **portfolio website** showcasing my projects, skills, and experience.  
 🛠 **Tech Used:** `HTML` `CSS` `JavaScript` `Tailwind CSS`  
-🔗 **Live Demo:** [your-username.github.io/my-portfolio](https://your-username.github.io/my-portfolio/)  
+🔗 **Live Demo:** [your-username.github.io/my-portfolio]([https://your-username.github.io/my-portfolio/](https://animesh-kr-portfolio.netlify.app/))  
 
 ### 🛡 **2. Cyber Forensics Toolkit**
 📌 **Description:** A **forensic investigation tool** to analyze metadata, encryption detection, and file integrity.  
