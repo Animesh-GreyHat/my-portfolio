@@ -198,28 +198,7 @@
         </div>
     </section>
 
-    <script>
-        // Typing Animation Effect
-        const words = ["Cyber Forensics Expert","Frontend Developer", "Web Developer"];
-        let wordIndex = 0;
-        let textElement = document.getElementById("dynamic-text");
-
-        function typeEffect() {
-            textElement.style.animation = "none"; // Reset animation
-            setTimeout(() => {
-                textElement.innerHTML = words[wordIndex]; // Change word
-                wordIndex = (wordIndex + 1) % words.length; // Toggle between words
-                textElement.style.animation = "typing 2.5s steps(15, end) infinite alternate";
-            }, 300);
-        }
-
-        setInterval(typeEffect, 2500); // Change text every 2.5 seconds
-        
-
-       
-
-        
-    </script>
+   
    
     
 
