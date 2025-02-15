@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0A192F; /* Updated background color */
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Navbar */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 10%;
+            
+        }
+
+        header h2 {
+            color: white;
+            margin: 0;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            font-size: 16px;
+            padding: 5px 10px;
+            transition: color 0.3s ease-in-out;
+            
+        }
+
+        nav ul li a:hover {
+            color: #59B2F4; 
+            font-weight: bold;
+            
+        }
+
+        /* Contact Section */
+.contact-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container */
+.contact-container {
+    display: flex;
+    width: 80%;
+    max-width: 1000px;
+    background-color: #112233;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.3);
+}
+
+/* Left Side - Contact Info */
+.contact-info {
+    flex: 1;
+    padding: 20px;
+}
+
+.contact-info h2 {
+    font-size: 28px;
+}
+
+.contact-info h2 span {
+    color: #00d4ff;
+}
+
+.contact-details p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Social Media Icons */
+.social-icons {
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: #00d4ff;
+    font-size: 24px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.social-icons a:hover {
+    color: #ffffff;
+}
+
+/* Right Side - Contact Form */
+.contact-form {
+    flex: 1;
+    padding: 20px;
+}
+
+.contact-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    background: #1c2b3a;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+
+.contact-form textarea {
+    height: 100px;
+    resize: none;
+}
+
+/* Submit Button */
+.contact-form button {
+    background: #00d4ff;
+    color: black;
+    padding: 12px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.contact-form button:hover {
+    background: #ffffff;
+    color: black;
+}
+    
+    </style>
+</head>
+<body>
+
+    <header>
+        <h2>Portfolio.</h2>
+        <nav>
+            <ul>
+                <li><a href="index.html" class="current">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="contact-section">
+        <div class="contact-container">
+            <div class="contact-info">
+                <h2>Contact <span>Me</span></h2>
+                <p>I'm always open to discussing new opportunities, creative projects, or ways to bring value to your team. Whether you have a question, a project idea, or just want to say hello, feel free to reach out!</p>
+                <p>Let’s build something great together. 🚀</p>
+                <div class="contact-details">
+                    <p>📧 animesh.kr.in@gmail.com</p>
+                    <p>📞 +91 7061675550</p>
+                </div>
+    
+                <div class="social-icons">
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-instagram"></i></a>
+                    <a href="#"><i class="fa fa-linkedin"></i></a>
+                </div>
+            </div>
+    
+            <div class="contact-form">
+                <form action="#" method="POST">
+                    <input type="text" placeholder="Enter Your Name" required>
+                    <input type="email" placeholder="Enter Your Email" required>
+                    <input type="text" placeholder="Enter Your Subject" required>
+                    <textarea placeholder="Enter Your Message" required></textarea>
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </section>
+    
+    <!-- FontAwesome for Icons -->
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    
+        
+
+       
+
+        
+    
+   
+    
+
+</body>
+</html>
